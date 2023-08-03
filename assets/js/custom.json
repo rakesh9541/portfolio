@@ -1,0 +1,187 @@
+{
+    "subtitles": [
+        "Programmer",
+        "Problem Solver",
+        "Full Stack Developer",
+        "Machine Learning ",
+        "Data Analyst",
+        "Passionate Learner"
+    ],
+    "projects": [
+        {
+            "title": "Bug Tracker",
+            "desc": "A Full Stack Software to efficiently track and manage software bugs, enhancing the communication and collaboration between developers, testers, and other stakeholders in the software development process. ",
+            "img": "Bugtracker.png",
+            "link": "https://bug-tracker-jet.vercel.app/"
+        },
+        {
+            "title": "CoLabo",
+            "desc": "Comprehensive virtual research assistant which aims to help students and researchers to streamline and organise their research for efficient results ",
+            "img": "colabo.PNG",
+            "link": "https://colabo3.onrender.com/"
+        },
+        {
+            "title": "Interview Bridge",
+            "desc": "Interview Bridge is a web platform that allows users to conduct technical interviews with audio, video, real-time chat, and a real-time code editor.",
+            "img": "interviewbridge.PNG",
+            "link": "https://interview-bridge.onrender.com/"
+        },
+        {
+            "title": "AI chatbot",
+            "desc": " This chatbot respond to user inquiries and requests in a conversational manner and it's User-friendly and intuitive interface allows for easy communication.",
+            "img": "aichat.png",
+            "link": "https://virtualassistant.vercel.app/"
+        },
+        {
+            "title": "Math Game",
+            "desc": "A Math Game for children to improve their basic math operational skills. Random numbers will be generated for the game. Upon giving a correct answer, the scoreboard increases. If a wrong answer is given, the game will end. ",
+            "img": "quiz.png",
+            "link": "https://rakesh9541.github.io/MathGame/"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data-Structure",
+            "desc": "Full Stack Developer",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "cp",
+            "desc": "Machine Learning",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "dbms",
+            "desc": "Data Analyst",
+            "per": "★★★☆☆"
+        }  
+    ],
+    "langauge": [
+
+        {
+            "name": "cpp",
+            "desc": "C++ Langauge",
+            "per": "★★★★★"
+        },
+        {
+            "name": "py",
+            "desc": "Python Langauge",
+            "per": "★★★★★"
+        },
+        {
+            "name": "java",
+            "desc": "Java",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "js",
+            "desc": "JavaScript",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "sql",
+            "desc": "Structured Query Language",
+            "per": "★★★☆☆"
+        }
+    ],
+    "development": [
+        {
+            "name": "html",
+            "desc": "Hypertext Markup Language",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "css",
+            "desc": "Cascading Style Sheets",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "bootstrap",
+            "desc": "Bootstrap",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "react",
+            "desc": "React",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "jquery",
+            "desc": "Jquery",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "markdown",
+            "desc": "Markdown",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "mongodb",
+            "desc": "MongoDB",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "express",
+            "desc": "Express",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "nodejs",
+            "desc": "Node.js",
+            "per": "★★★☆☆"
+        }
+    ],
+    "tools": [
+        {
+            "name": "git",
+            "desc": "Git",
+            "per": "★★★☆☆"
+        },
+        {
+            "name": "github",
+            "desc": "Github",
+            "per": "★★★★☆"
+        },
+        {
+            "name": "vscode",
+            "desc": "VS-Code",
+            "per": "★★★★☆"
+        }
+    ],
+    "exp": [
+        {
+            "name": "Itorzo",
+            "pos": "Chief Technology Officer (CTO)",
+            "time": "Feb 2021-March 2023",
+            "des": " Spearheaded the establishment and growth of ITORZO as a CTO, leading a team of top-tier freelancers and delivering exceptional services to clients worldwide.",
+            "link": "https://itorzoofficial.com/"
+        },
+        {
+            "name": "intel",
+            "pos": "Intel Unnati Summer Internship",
+            "time": "Jun 2023-Aug 2023",
+            "des": "At my Intel Unnati Summer Internship, I implemented a hybrid architecture model using Deep Neural Networks (DNN) and XGBoost for smartphone price prediction, which improved the prediction accuracy significantly.",
+            "link": "https://theprograms.in/"
+        },
+        {
+            "name": "1d",
+            "pos": "Machine Learning intern",
+            "time": "Jan 2022 - Mar 2022",
+            "des": " Collaborated with a team of data scientists to design and implement a machine learning model that enhanced the accuracy of demand forecasting for a large retail company by 20%.",
+            "link": "https://www.1digitals.com/"
+        },
+        {
+            "name": "hire",
+            "pos": "Hire Me",
+            "des": "I am team-oriented, hardworking individual willing to give my 100% for the organization and grow together with the organization. If you think I am a right fit for your organization I will be very happy to work in the organization.",
+            "link": "mailto:rakeshreddymallidi999@gmail.com"
+        }
+    ],
+    "blog": [
+        {
+            "title": "I am a full-stack web developer and data analyst with also interest in AI, skilled in crafting innovative and scalable web applications. My educational background includes a Bachelor of Engineering degree in Information Technology from the Manipal Institute of Technology (Class of 2024), I am adept at leveraging technology to solve real-world problems. My project portfolio showcases my commitment to using technology for problem-solving.",
+            "img": "me.png",
+            "link": ""
+        }
+    ]
+}
