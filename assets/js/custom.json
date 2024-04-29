@@ -150,18 +150,18 @@
     ],
     "exp": [
         {
-            "name": "Itorzo",
-            "pos": "Chief Technology Officer (CTO)",
-            "time": "Feb 2021-March 2023",
-            "des": " Spearheaded the establishment and growth of ITORZO as a CTO, leading a team of top-tier freelancers and delivering exceptional services to clients worldwide.",
-            "link": "https://itorzoofficial.com/"
+            "name": "Juniper Networks",
+            "pos": "Software Engineer Intern",
+            "time": "Feb 2024-Present",
+            "des": "Developing a full-stack device monitoring application for real-time network management and device tracking, featuring a GUI SSH terminal, real-time alerts, and robust user authentication; also conducting R&D on Open Source Large Language Models for a specific need.",
+            "link": "https://www.juniper.net/"
         },
         {
             "name": "intel",
             "pos": "Intel Unnati Summer Internship",
             "time": "Jun 2023-Aug 2023",
             "des": "At my Intel Unnati Summer Internship, I implemented a hybrid architecture model using Deep Neural Networks (DNN) and XGBoost for smartphone price prediction, which improved the prediction accuracy significantly.",
-            "link": "https://theprograms.in/"
+            "link": "https://www.intel.com/content/www/us/en/homepage.html"
         },
         {
             "name": "1d",
